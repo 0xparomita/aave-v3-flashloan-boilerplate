@@ -1,0 +1,15 @@
+{
+  "name": "aave-v3-flashloan",
+  "version": "1.0.0",
+  "description": "Flash loan receiver for Aave V3",
+  "main": "index.js",
+  "dependencies": {
+    "@aave/core-v3": "^1.18.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.4.0",
+    "ethers": "^6.10.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  }
+}
